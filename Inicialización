@@ -5,3 +5,5 @@ C:\Users\Bryan Jácome Tumbaco\Desktop\Nueva carpeta>mkdir proyectoExistente
 C:\Users\Bryan Jácome Tumbaco\Desktop\Nueva carpeta>cd proyectoExistente
 C:\Users\Bryan Jácome Tumbaco\Desktop\Nueva carpeta\proyectoExistente>
 C:\Users\Bryan Jácome Tumbaco\Desktop\Nueva carpeta\proyectoExistente>copy con "archivo_a.txt"
+C:\Users\Bryan Jácome Tumbaco\Desktop\Nueva carpeta\proyectoExistente>git init
+Initialized empty Git repository in C:/Users/Bryan Jácome Tumbaco/Desktop/Nueva carpeta/proyectoExistente/.git/
