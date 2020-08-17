@@ -7,3 +7,18 @@ C:\Users\Bryan Jácome Tumbaco\Desktop\Nueva carpeta\proyectoExistente>
 C:\Users\Bryan Jácome Tumbaco\Desktop\Nueva carpeta\proyectoExistente>copy con "archivo_a.txt"
 C:\Users\Bryan Jácome Tumbaco\Desktop\Nueva carpeta\proyectoExistente>git init
 Initialized empty Git repository in C:/Users/Bryan Jácome Tumbaco/Desktop/Nueva carpeta/proyectoExistente/.git/
+
+C:\Users\Bryan Jácome Tumbaco\Desktop\Nueva carpeta\proyectoExistente>cd .git
+
+C:\Users\Bryan Jácome Tumbaco\Desktop\Nueva carpeta\proyectoExistente\.git>tree
+Listado de rutas de carpetas para el volumen Windows
+El número de serie del volumen es 96DE-20EA
+C:.
+├───hooks
+├───info
+├───objects
+│   ├───info
+│   └───pack
+└───refs
+    ├───heads
+    └───tags
